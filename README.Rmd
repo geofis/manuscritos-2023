@@ -1,6 +1,6 @@
 ---
-title: "Lista de manuscritos para 2022, actualizaciones e informes"
-author: "José Ramón Martínez Batlle <br> Investigador / profesor de la Universidad Autónoma de Santo Domingo (UASD) <br> Última actualización: agosto, 2022"
+title: "Lista de manuscritos para 2023, actualizaciones e informes"
+author: "José Ramón Martínez Batlle <br> Investigador / profesor de la Universidad Autónoma de Santo Domingo (UASD) <br> Última actualización: agosto, 2023"
 output: github_document
 editor_options: 
   chunk_output_type: console
@@ -10,19 +10,13 @@ editor_options:
 
 > [Saltar a informe semestre 01-2022](#informe-semestre-01-2022)
 
-> [Saltar a informe semestre 02-2021](#informe-semestre-02-2021)
+Meta de 2023 será (además de impartir clases): **redactar** cuatro manuscritos para publicación. Por "manuscrito" entiéndase "proyecto", pues en términos prácticos es lo que son, pero sin la parte administrativa.
 
-Mi meta para 2022 será (además de impartir clases): conseguir la publicación de un manuscrito, y escribir y **enviar** otros 3 manuscritos para publicación. Por "manuscrito" entiéndase "proyecto", porque en términos prácticos es lo que son, pero sin la parte administrativa. **Escribir y enviar un manuscrito** es el resultado de un largo camino que implica diseño de muestreo, colecta de datos, análisis, redacción, envío, revisiones, reenvío, ..., hasta alcanzar un artículo publicado. Produzco nuevo conocimiento hasta donde el autofinanciamiento me lo permite, lo cual tiene otra ventaja: mis estudiantes identifican que investigar es posible con los recursos que se tienen a mano.
+**Escribir y enviar un manuscrito** es el resultado de un largo camino que implica diseño de muestreo, colecta de datos, análisis, redacción, envío, revisiones, reenvío, ..., hasta alcanzar un artículo publicado. Produzco nuevo conocimiento hasta donde el autofinanciamiento me lo permite, lo cual tiene otra ventaja: mis estudiantes identifican que investigar es posible con los recursos que se tienen a mano, sin necesidad de pensar en grandes ni complejas estructuras. La publicación en revista es el objetivo final, pero antes de ello paso mi producción por un servidor de prepublicaciones (*preprint*). Esto permite dar a conocer, con antelación, la ciencia que estoy realizando, transparentando sustancialmente el proceso de producción de conocimiento.
 
-¿Qué me mueve?
+Hace casi diez años, vi la necesidad de cambiar la perspectiva sobre producción científica, completando la larga lista de trabajos de investigación en curso, pero bajo la modalidad de ciencia abierta y sin proyecto. Opté por investigar de manera autónoma, sin depender de financiamiento o burocracia, a pesar de ser un enfoque no convencional. Priorizo enviar mis trabajos a lugares que fomenten la publicación en acceso abierto, como por ejemplo [*Peer Community In* (PCI)](https://peercommunityin.org/) u otras alternativas que cumplan con el "estándar diamante", evitando cargos onerosos y evitando alimentar el trabajo no remunerado en editoriales.
 
-1. Quiero cambiar el "es un trabajo en curso" por "este es mi aporte". Visualizar muchos de mis "trabajos en curso" me ayudará a concluirlos. No se trata de una competición, se trata de "dar a luz".
-
-2. Quiero seguir haciendo ciencia sin proyecto, sin soporte administrativo, sin fondos. Lo he venido haciendo desde hace tiempo, y me parece que es la mejor alternativa hasta tanto la "burocracia se una a la ciencia".
-
-3. Enviar mis trabajos preferiblemente a comunidades/editoriales/revistas que sigan el modelo de publicación en acceso abierto tipo diamante, como [*Peer Community In* (PCI)](https://peercommunityin.org/). Los que hemos pagado cargos por procesamiento de artículos (**article processing charges**, APC) alguna vez en nuestra carrera científica, sabemos que es una de las partes más oscuras del proceso de publicación. Desde hace algún tiempo, me he propuesto evitar esta doble tributación, y dejar de formar parte de la fuerza de trabajo no remunerada de las editoriales.
-
-¿Qué publicaré? Lógicamente, sobre biogeografía y geomorfología, usando software libre, con datos previamente colectados y por colectar, siguiendo criterio de preproducibilidad. Mi lista de deseos de manuscritos, se encuentra [más abajo](#relacion-de-manuscritos-2022).
+Este año 2023, ¿qué publicaré? Lógicamente, sobre biogeografía y geomorfología, usando software libre, con datos previamente colectados y por colectar, siguiendo criterio de preproducibilidad. Mi lista de deseos de manuscritos, se encuentra [más abajo](#relacion-de-manuscritos-2023).
 
 Prefiero pensar que enviaré manuscritos, y no que publicaré artículos. Además, tal como vengo haciendo desde hace años, no prestaré atención al factor de impacto, ni al prestigio, ni a la insignia. Las editoriales de lujo logran su cometido cuando las universidades usan el "prestigio" para evaluar a su profesorado; ignoraré este asunto, así de simple.
 
@@ -34,33 +28,34 @@ Prefiero pensar que enviaré manuscritos, y no que publicaré artículos. Ademá
 
 3. Seguir aprendiendo.
 
-Por supuesto, enviaré mis manuscritos a revistas, pero previamente publicando en servidores de *preprint*. Si las revistas quieren publicar mis trabajos, pues bien, pero siempre habrá una copia en servidores de *preprint*. Me satisface ver que varios de mis trabajos alojados en servidores de *preprint* han sido leídos miles de veces.
+Como indiqué arriba, envío mis manuscritos a revistas, pero previamente publicando en servidores de *preprint*. Si las revistas quieren publicar mis trabajos, pues bien, pero siempre habrá una copia en servidores de *preprint*. Me satisface ver que varios de mis trabajos alojados en servidores de *preprint* han sido leídos miles de veces.
 
-¿Cómo lo haré? Mis estudios seguirán cumpliendo los principios de: 
+¿Cómo lo hago? Mis estudios siguen cumpliendo los principios de: 
 
-1. Preproducibilidad, que significa poderlos reproducir por terceros con *scripts* provistos por mí como apoyo adicional.
+1. Preproducibilidad, que significa que los resultados de mis estudios pueden reproducirlos terceros con *scripts* provistos por mí como apoyo adicional. Mis artículos son impulsados por datos, resultando en una conexión entre la redacción y el análisis; ambos procesos están estrechamente unidos. Esta es la parte más difícil de todo el trabajo, porque implica apego a lo obtenido, con *scripts* documentados, que consumen mucho tiempo de elaboración, y recursos informáticos para su ejecución.
 
-2. Ser realizables en contextos de bajo costo.
+2. Ser realizables en contextos de bajo costo. Si una idea de investigación, por interesante que parezca, no la puedo cubrir con el salario, no la implemento. La comunidad "hazlo tú mismo" (e.g. [GOSH](https://openhardware.science/about/why-gosh/)) está demostrando que hacer ciencia es posible con escasos recursos provenientes del autofinanciamiento, o con pequeñas donaciones.
 
-## <a name="relacion-de-manuscritos-2022"></a> Relación de manuscritos "reservados" para 2022 (orden aleatorio)
+## <a name="relacion-de-manuscritos-2023"></a> Relación de manuscritos "reservados" para 2023 (orden aleatorio)
 
-- [x] Fuego y pérdida de bosque en República Dominicana durante el siglo XXI. [¡Publicado! Ver aquí.](https://peercommunityjournal.org/articles/10.24072/pcjournal.157/)
+- [x] Generación de red hidrográfica densa de República Dominicana a partir de modelo digital de elevaciones de resolución media. [Preprint]()
+
+- [x] Applying Machine and Deep Learning to UAV Imagery for Precise Geomorphological Mapping of a Tropical River in the Dominican Republic. [Preprint]().
+
+- [ ] 
 
 - [ ] Medición de la deformación superficial en la ciudad de Santo Domingo a partir de datos GNSS-RTK correlacionado con *small baseline subset* por interferometría SAR (InSAR-SBAS).
 
-- [ ] Cartografía geomorfológica de detalle de un río tropical usando fotografías aéreas de resolución centimétrica y deep learning.
-
-- [ ] Medición del tamaño superficial de gravas en una llanura de inundación tropical usando SfM aplicado a imágenes tomadas por drone y *machine learning*.
 
 ----
 
-## <a name="informe-semestre-01-2022"></a> De lo que me propuse en el primer semestre de 2022, ¿qué logré?
+## <a name="informe-semestre-01-2023"></a> De lo que me propuse en el primer semestre de 2022, ¿qué logré?
 
 ### Investigación
 
-- [x] ~~Fuego y pérdida de bosque en República Dominicana durante el siglo XXI. Remitido a **Peer Community in**, en proceso de publicación~~.
+- [x] Fuego y pérdida de bosque en República Dominicana durante el siglo XXI. [¡Publicado! Ver aquí.](https://peercommunityjournal.org/articles/10.24072/pcjournal.157/)
 
-Este trabajo se encuentra ya ~~en la "pasarela de publicación"~~ publicado (ver [aquí](https://peercommunityjournal.org/articles/10.24072/pcjournal.157/)). El trabajo es bastante innovador, y se espera que inspire investigaciones similares en el futuro. La revista es **Peer Community Journal**, que es el órgano de difusión de **Peer Community In** (PCI). PCI es una organización sin fines de lucro conformada por científicos de todo el mundo, que ofrece un proceso editorial de ciencia abierta mediante la creación de comunidades específicas de investigadores que revisan y recomiendan preprints. Son comunidades, pero no por ello tienen baja calidad los trabajos que se recomiendan para publicación.
+Este trabajo es bastante innovador, y se espera que inspire investigaciones similares en el futuro. La revista es **Peer Community Journal**, que es el órgano de difusión de **Peer Community In** (PCI). PCI es una organización sin fines de lucro conformada por científicos de todo el mundo, que ofrece un proceso editorial de ciencia abierta mediante la creación de comunidades específicas de investigadores que revisan y recomiendan preprints. Son comunidades, pero no por ello tienen baja calidad los trabajos que se recomiendan para publicación.
 
 - [ ] Colecta de datos de terreno para el estudio "Medición de la deformación superficial en la ciudad de Santo Domingo a partir de datos GNSS-RTK correlacionado con *small baseline subset* por interferometría SAR (InSAR-SBAS)"
 
@@ -182,6 +177,8 @@ Me propuse escribir y enviar siete manuscritos, y esta meta superaba por mucho l
 Conservo y agrando una lista de manuscritos que verán la luz algún día. Es una especie de *bucket list* que me inspira a terminar lo que tengo pendiente para producir nuevo conocimiento en el futuro.
 
 - [ ] Macroinvertebrados de agua dulce de un río tropical intervenido antrópicamente: asociación con microhábitat.
+
+- [ ] Medición del tamaño superficial de gravas en una llanura de inundación tropical usando SfM aplicado a imágenes tomadas por drone y *machine learning*.
 
 - [ ] Fuego y sequía en República Dominicana durante el siglo XXI.
 
