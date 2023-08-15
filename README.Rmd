@@ -42,9 +42,11 @@ Como indiqué arriba, envío mis manuscritos a revistas, pero previamente public
 
 - [x] Applying Machine and Deep Learning to UAV Imagery for Precise Geomorphological Mapping of a Tropical River in the Dominican Republic. [Preprint]().
 
-- [ ] 
+- [ ] Selección de sitios para el establecimiento de una red de estaciones meteoclimáticas en República Dominicana usando decisión multicriterio y análisis de vecindad. Avances, [aquí](https://geofis.github.io/datos-meteoclimaticos-escenarios-cc/seleccion-sitios-red-de-estaciones.html)
 
-- [ ] Medición de la deformación superficial en la ciudad de Santo Domingo a partir de datos GNSS-RTK correlacionado con *small baseline subset* por interferometría SAR (InSAR-SBAS).
+- [ ] Estadística zonal multipropósito sobre información geoespacial de República Dominicana, usando computación en la nube y lenguajes de programación. **Preprint en elaboración**. Avances [aquí](https://geofis.github.io/zonal-statistics/README.html)
+
+- [ ] Medición de la deformación superficial en la ciudad de Santo Domingo a partir de datos GNSS-RTK correlacionado con *small baseline subset* por interferometría SAR (InSAR-SBAS). Sólo la parte de interferometría está hecha, y se han colectado **muuuuuuchos** datos de terreno, pero se necesitan más para procesarlos posteriormente con GAMIT/GLOBK.
 
 
 ----
